@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "mods": [
+    {
+      "name": "example-mod.jar",
+      "url": "https://example.com/mods/example-mod.jar",
+      "sha1": "abc123def456789"
+    }
+  ]
+}
